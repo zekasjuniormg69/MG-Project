@@ -1,0 +1,13 @@
+Je veux que tu me créer un site vitrine professionel de E-commerce "G-Kub" 
+
+Tu trouveras le logo du site dans le dossier "images", toujours dans le même dossier tu trouveras trois photos des article à mettre sur la page.
+
+Le site dois être très fluid et dinamique. Et je veux que la couleur utiliser soit très propre, présentable et professionel. 
+
+Les outils que tu utilisera sont "html, css" tu mets le "style.css" dans le dossier "css". 
+
+N'oublie pas de faire un footter propre et communiquand, c'est à dire, un moyen pour être contacté. 
+
+Je veux que tu code en français, tu mets des commentaire et que ton code soit capable de guider un dev junior quand il viendra continuer le projet.
+
+Ensuite pour finir, crée un fichier README.md pour ce projet.  
