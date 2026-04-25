@@ -37,6 +37,7 @@
     --couleur-blanc: #ffffff;         /* Blanc pur */
     
     /* Espacements standards */
+    --espacement-très-petit: 4px;
     --espacement-petit: 8px;
     --espacement-moyen: 16px;
     --espacement-grand: 32px;
@@ -372,15 +373,15 @@ html {
 @media (max-width: 768px) {
     /* Header adapté */
     .header-container {
-        flex-direction: column;
-        gap: var(--espacement-moyen);
+        /* flex-direction: column; */
+        gap: var(--espacement-très-petit);
         text-align: center;
     }
     
     /* Navigation en une colonne */
     .nav-menu {
-        flex-direction: column;
-        gap: var(--espacement-moyen);
+        /* flex-direction: column; */
+        gap: var(--espacement-très-petit);
         width: 100%;
     }
     
